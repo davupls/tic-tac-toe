@@ -1,0 +1,18 @@
+* {
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  --primary-blue:   #31C3BD;
+  --light-blue:     #65E9E4;
+  --primary-yellow: #F2B137;
+  --light-yellow:   #FFC860;
+
+  --primary-dark:   #1A2A33;
+  --light-dark:     #1F3641;
+  --primary-white:  #A8BFC9;
+  --light-white:    #DBE8ED;
+}
