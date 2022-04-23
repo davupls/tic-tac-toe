@@ -16,3 +16,28 @@
   --primary-white:  #A8BFC9;
   --light-white:    #DBE8ED;
 }
+
+body {
+  background-color: var(--primary-dark);
+}
+
+.rest-for-now {
+  display: none;
+}
+
+.new-game {
+  height: 100vh;
+}
+
+h3 { 
+  color: var(--primary-white);
+  letter-spacing: 1px;
+  text-transform: uppercase; 
+}
+
+.reminder {
+  color: var(--primary-white);
+  letter-spacing: 0.875px;
+  text-transform: uppercase;
+  opacity: 0.5;
+}
