@@ -60,7 +60,7 @@ body {
   border-radius: 10px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding: 9px 0;
+  padding: 9px 7px;
   min-width: 279px;
   height: 72px;
   margin-bottom: 17px;
@@ -108,12 +108,15 @@ body {
 
 .new-game-btn {
   background-color: var(--primary-yellow);
+  color: #111;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
-  height: 56px;
+
   border-radius: 15px;
+  border: none;
   box-shadow: inset 0px -8px 0px #CC8B13;
+  height: 56px;
   width: 90vw;
 }
 
